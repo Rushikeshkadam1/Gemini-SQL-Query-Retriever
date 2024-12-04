@@ -87,8 +87,7 @@ streamlit run app.py
 ```
 6. Open the provided local URL in your browser to use the app.
 
-License
-This project is licensed under the MIT License.
+
 
 
 
